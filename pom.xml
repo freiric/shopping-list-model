@@ -4,7 +4,7 @@
 	<groupId>com.shoppinglist</groupId>
 	<artifactId>shopping-list-model</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>${project.artifactId}</name>
+	<name>shopping-list-model</name>
 	<description>model used in both the web and the android client</description>
 	<inceptionYear>2010</inceptionYear>
 	<licenses>
